@@ -1,0 +1,53 @@
+site
+====
+
+code of site
+<html>
+<head>
+<title> Добро пожаловать на сайт автомобильного тюнинга </title>
+</head>
+<body>
+<body bgcolor="#FFE4C4">
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tr><td colspan="2" width="200" height="310" background="images/header129.jpg">
+</td> </tr>
+
+<tr><td colspan="2" width="780" height="38" align="center" background="images/footer.jpg">
+<table border="0" cellpadding="5" cellspacing="0">
+<font color="#FFFFFF" size="5" align="center">
+  <a href="main.html"> <font color="#FFFFFF" size="5" align="center"> главная || </a>
+  <a href="photo.html"> <font color="#FFFFFF" size="5" align="center"> фотогаллерея тюнинга || </a>
+  <a href="contacts.html"> <font color="#FFFFFF" size="5" align="center"> контакты || </a>
+</font>
+</table>
+</td></tr>
+
+<tr><td colspan="2" width="780" height="33" background="images/news.jpg">
+</td></tr>
+<tr><td width="200" height="320" bgcolor="#CCCCCC" align="center" valign="top">
+На нашем сайте вы всегда
+можете найти самые свежие
+новости из мира 
+автомобильного тюнинга!!!
+</td>
+<td width="580" height="320" bgcolor="#FFFFFF" align="center" size="4" valign="top"> 
+<table border="0" cellpadding="15" cellspacing="0">
+<h1> Новинки в мире тюнинга <font color="#FFFFFF" size="4" align="center"> </font> </h1>
+<tr> <td><img src="images/11.jpg" align="left">Для вас представлена обновленная
+                                                               Ауди ТТ преобразованная в ателье
+															   B&B Automobiltechnik</td> </tr>
+<tr> <td><img src="images/12.jpg" align="left">Перед Вами Ауди S8 от тюнинг ателье MTM<td> </tr>
+<tr> <td><img src="images/13.jpg" align="left">Mercedes-Benz C-Class AMG-Line в исполнении Brabus</td> </tr>
+</table>
+</td>
+
+<tr><td colspan="2" width="780" height="38" align="center"
+background="images/footer.jpg">
+<font color="#FFFFFF" size="5" align="center">
+Salon-auto
+</td></tr>
+</table>
+</body>
+</html>

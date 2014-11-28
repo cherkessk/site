@@ -1,0 +1,52 @@
+site
+====
+
+code of site
+<html>
+<head>
+<title> contacts </title>
+</head>
+<body>
+<body bgcolor="#FFE4C4">
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tr><td colspan="2" width="200" height="310" background="images/header129.jpg">
+</td> </tr>
+
+<tr><td colspan="2" width="780" height="38" align="center" background="images/footer.jpg">
+<table border="0" cellpadding="5" cellspacing="0">
+<font color="#FFFFFF" size="5" align="center">
+  <a href="main.html"> <font color="#FFFFFF" size="5" align="center"> главная || </a>
+  <a href="photo.html"> <font color="#FFFFFF" size="5" align="center"> фотогаллерея тюнинга || </a>
+  <a href="contacts.html"> <font color="#FFFFFF" size="5" align="center"> контакты || </a>
+</font>
+</table>
+</td></tr>
+
+<tr><td colspan="2" width="780" height="33" background="images/news.jpg">
+</td></tr>
+<tr><td width="200" height="320" bgcolor="#CCCCCC" align="center" valign="top">
+На нашем сайте вы всегда
+можете найти самые свежие
+новости из мира 
+автомобильного тюнинга!!!
+</td>
+<td width="580" height="320" bgcolor="#FFFFFF" valign="top">
+<table border="0" cellpadding="15" cellspacing="0">
+<tr><td align="center">
+<h1> Обратная связь </h1>
+<p> Ответственный за сайт: Бескровный О.А. </p>
+<p> По возникшим вопросам обращаться по почте: oleg.bescrovnyi@gmail.com </p>
+</td> </tr>
+</table>
+</td>
+
+<tr><td colspan="2" width="780" height="38" align="center"
+background="images/footer.jpg">
+<font color="#FFFFFF" size="5" align="center">
+Salon-auto
+</td></tr>
+</table>
+</body>
+</html>

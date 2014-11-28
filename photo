@@ -1,0 +1,61 @@
+<html>
+<head>
+<title> photo </title>
+</head>
+<body>
+<body bgcolor="#FFE4C4">
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tr><td colspan="2" width="200" height="310" background="images/header129.jpg">
+</td> </tr>
+
+<tr><td colspan="2" width="780" height="38" align="center" background="images/footer.jpg">
+<table border="0" cellpadding="5" cellspacing="0">
+<font color="#FFFFFF" size="5" align="center">
+  <a href="main.html"> <font color="#FFFFFF" size="5" align="center"> главная || </a>
+  <a href="photo.html"> <font color="#FFFFFF" size="5" align="center"> фотогаллерея тюнинга || </a>
+  <a href="contacts.html"> <font color="#FFFFFF" size="5" align="center"> контакты || </a>
+</font>
+</table>
+</td></tr>
+
+<tr><td colspan="2" width="780" height="33" background="images/news.jpg">
+</td></tr>
+<tr><td width="200" height="320" bgcolor="#CCCCCC" align="center" valign="top">
+На нашем сайте вы всегда
+можете найти самые свежие
+новости из мира 
+автомобильного тюнинга!!!
+</td>
+<td width="580" height="320" bgcolor="#FFFFFF" valign="top">
+<table border="0" cellpadding="15" cellspacing="0">
+<tr><td align="center">
+<h1> Фотомир тюнинга </h1>
+<img src="images/14.jpg">
+<img src="images/15.jpg">
+<img src="images/16.jpg">
+<img src="images/17.jpg">
+<img src="images/18.jpg">
+<img src="images/19.jpg">
+<img src="images/20.jpg">
+<img src="images/21.jpg">
+<img src="images/22.jpg">
+<img src="images/23.jpg">
+<img src="images/24.jpg">
+<img src="images/25.jpg">
+<img src="images/26.jpg">
+<img src="images/27.jpg">
+<p> здесь собраны обои разных работ тюнинг ателье мира </p>
+</td> </tr>
+</table>
+</td>
+
+<tr><td colspan="2" width="780" height="38" align="center"
+background="images/footer.jpg">
+<font color="#FFFFFF" size="5" align="center">
+Salon-auto
+</td></tr>
+</table>
+</body>
+</html>
